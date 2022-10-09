@@ -6,3 +6,4 @@ scikit_learn
 streamlit
 tensorflow
 tqdm==4.64.0
+lightgbm
