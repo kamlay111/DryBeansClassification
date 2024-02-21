@@ -1,5 +1,5 @@
 joblib==1.1.0
-numpy 
+numpy
 pandas
 requests
 scikit_learn
