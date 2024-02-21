@@ -1,4 +1,4 @@
-# DryBeansClassification
+# DryBeansClassificatio
 This is deployed at https://kamlay111-drybeansclassification-app-tkdqha.streamlitapp.com/
 It has two ways to make classification prediction.
 1. Single
